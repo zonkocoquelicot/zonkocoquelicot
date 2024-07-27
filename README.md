@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on not sure about that.
 - 📫 How to reach me .
 - 😄 Pronouns: F
-- ⚡ Fun fact: My personality is 'INTJ'.
+- ⚡ Fun fact: My MBTI is 'INTJ'.
 
 <!---
 zonkocoquelicot/zonkocoquelicot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
