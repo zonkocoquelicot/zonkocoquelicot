@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @zonkocoquelicot
 - 👀 I’m interested in gaining the knowledge.
 - 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on not sure about that.
-- 📫 How to reach me .
+- 💞️ I’m looking to collaborate.
 - 😄 Pronouns: F
 - ⚡ Fun fact: My MBTI is 'INTJ'.
 
